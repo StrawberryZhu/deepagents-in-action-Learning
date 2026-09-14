@@ -53,7 +53,16 @@ pip命令也不行 sudo命令也不行
 myra@LAPTOP-4LRGFQCE:/mnt/d/uv$ uv --version    
 uv 0.12.13 (x86_64-unknown-linux-gnu)    
 之后uv tool install --upgrade agentseek    
-好慢啊！！！！！！！！！  ！！！！！！！！！    
+好慢啊！！！！！！！！！  ！！！！！！！！！
+
+<div align="center">
+  <img 
+    src="{{ '/picture/3.png' | relative_url }}" 
+    alt="ubuntu" 
+    width="700"
+    height="500">
+</div>
+
 
 
 
