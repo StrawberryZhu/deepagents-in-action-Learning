@@ -45,6 +45,7 @@ del D:\ubuntu_backup.tar
 命令执行失败    
 pip命令也不行 sudo命令也不行    
 最终从github上面找到下载链接    
+'https://github.com/astral-sh/uv'    
 'cd /mnt/d/uv'    
 把 uv 主程序移动到系统全局路径（这样在任何地方都能用    
 'sudo mv uv-x86_64-unknown-linux-gnu/uv /usr/local/bin/'    
