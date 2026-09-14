@@ -39,7 +39,7 @@ del D:\ubuntu_backup.tar
 </div>
 
 ## 目前我的powershell输入wsl默认启动的是LAPTOP-4LRGFQCE:/mnt/host/c/Users/yourname# 也就是就是进入安装的docker-desktop
-## 输出wsl -d Ubuntu-26.04进入myra@LAPTOP...:~$ 进入安装的ubuntu  
+输出wsl -d Ubuntu-26.04进入myra@LAPTOP...:~$ 进入安装的ubuntu      
 在ubtuntu下执行命令    
 'curl -LsSf https://astral.sh/uv/install.sh | sh'    
 命令执行失败    
