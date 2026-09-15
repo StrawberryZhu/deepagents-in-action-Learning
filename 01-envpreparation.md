@@ -67,8 +67,8 @@ uv 0.12.13 (x86_64-unknown-linux-gnu)
 
 <div align="center">
   <img 
-    src="{{ '/picture/3.png' | relative_url }}" 
-    alt="agentseek_versionu" 
+    src="{{ '/picture/4.png' | relative_url }}" 
+    alt="agentseek_dev" 
     width="700"
     height="500">
 </div>
